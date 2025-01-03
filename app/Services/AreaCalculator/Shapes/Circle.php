@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services\Shapes;
+namespace App\Services\AreaCalculator\Shapes;
 
 class Circle
 {

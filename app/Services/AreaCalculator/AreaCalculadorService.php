@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Services;
+namespace App\Services\AreaCalculator;
 
-use App\Services\Shapes\Circle;
-use App\Services\Shapes\Square;
+use App\Services\AreaCalculator\Shapes\Circle;
+use App\Services\AreaCalculator\Shapes\Square;
 
 class AreaCalculadorService
 {
