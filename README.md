@@ -9,6 +9,6 @@
 
 ```bash
      php artisan migrate
-     php artisan seed
+     php artisan db:seed
      php artisan test
 ```
