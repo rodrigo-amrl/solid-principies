@@ -12,3 +12,5 @@
      php artisan db:seed
      php artisan test
 ```
+### The tests are separated by each solid principle.
+![alt text](image.png)
