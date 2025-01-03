@@ -2,7 +2,7 @@
 
 namespace App\Services\WorkerRefactored;
 
-interface WorkeblerInterface
+interface WorkebleInterface
 {
     public function work();
 }
